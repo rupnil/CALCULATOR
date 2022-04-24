@@ -29,7 +29,7 @@ Next, we set the width of the calculator to 400px and centre it using transforms
 
 In the next step, we set the width of the display and input element to 100%. We also use right as a value from the text-align property. We use the grid layout to position and arrange the buttons. You can further customize the buttons and display to suit your style.
 
-* 
+
 Javascript:
 
 Now to add functionality to the calculator we will be using javascript. Copy the code below and paste it into your javascript file.
