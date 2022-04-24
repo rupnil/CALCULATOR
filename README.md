@@ -8,3 +8,10 @@ Welcome to today’s tutorial. In today’s tutorial, we will learn how to creat
 Project Folder Structure:
 
 Let us see what the project folder structure looks like. The project folder is called – Calculator. Inside this folder, we have three files – index.html, style.css and script.js. They are HTML document, stylesheet and script respectively.
+
+HTML:
+
+We start with the HTML code. Copy the code below and paste it into your HTML file.
+The HTML code consists of a div with a class calculator. Inside the calculator, we have two main divs. The first is the display div and the second is the buttons div.
+
+The display div consists of an input element with the type text. We set the placeholder to zero.
