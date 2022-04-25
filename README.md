@@ -5,6 +5,7 @@ Welcome to today’s tutorial. In today’s tutorial, we will learn how to creat
 
 ![image](https://user-images.githubusercontent.com/60469322/164974001-1bd4b520-4543-4c54-a84a-6c9d7df31dc3.png)
 
+
 Project Folder Structure:
 
 Let us see what the project folder structure looks like. The project folder is called – Calculator. Inside this folder, we have three files – index.html, style.css and script.js. They are HTML document, stylesheet and script respectively.
